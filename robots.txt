@@ -1,0 +1,11 @@
+User-agent: Yandex
+Host: https://lex36.ru
+Disallow: 
+
+User-Agent: Googlebot
+Disallow: 
+
+User-agent: *
+Disallow: 
+
+Sitemap: https://lex36.ru/sitemap.xml
